@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micascapino
-- 🌱 I’m currently learning Python, Javascript and C# 
+- 🌱 I’m currently learning NodeJS, Typescript and NestJS
 - 📫 How to reach me: 
 <br/> [![Linkedin Badge](https://img.shields.io/badge/-Micaela--Scapino-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micaela-scapino/)](https://www.linkedin.com/in/micaela-scapino/)
 
